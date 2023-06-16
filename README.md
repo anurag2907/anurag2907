@@ -95,25 +95,25 @@
 <p align="center">
   
  <a href="https://linkedin.com/in/anurag2907">
-   <img alt="Shyam" src="https://img.shields.io/badge/-Shyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anurag2907/" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-Shyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anurag2907/" />
  </a>
   
  <a href="https://dev.to/anurag2907">
-   <img alt="Shyam" src="https://img.shields.io/badge/-Shyam-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/anurag2907" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-Shyam-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/anurag2907" />
  </a>
   
  <a href="https://www.instagram.com/anurag2907">
-   <img alt="Shyam" src="https://img.shields.io/badge/-Shyam-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anurag2907" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-Shyam-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anurag2907" />
  </a>
 
  </a>
  <a href="mailto:anurag2907@gmail.com">
-   <img alt="Shyam" src="https://img.shields.io/badge/-shyam-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag2907@gmail.com" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-shyam-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag2907@gmail.com" />
  </a>
  
 
  <a href="https://github.com/anurag2907">
-   <img alt="Shyam" src="https://img.shields.io/github/followers/anurag2907?label=follow&style=social" />
+   <img alt="Anurag" src="https://img.shields.io/github/followers/anurag2907?label=follow&style=social" />
  </a>   
  
 </p>
