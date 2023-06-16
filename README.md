@@ -1,6 +1,6 @@
 <div>
   <div id="header" align="center">
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="150" height="100"/>
+<!-- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="150" height="100"/> -->
 </div>
 
 <h1 align="center">
@@ -95,20 +95,20 @@
 <p align="center">
   
  <a href="https://linkedin.com/in/anurag2907">
-   <img alt="Anurag" src="https://img.shields.io/badge/-Shyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anurag2907/" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-Anurag-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anurag2907/" />
  </a>
   
  <a href="https://dev.to/anurag2907">
-   <img alt="Anurag" src="https://img.shields.io/badge/-Shyam-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/anurag2907" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-Anurag-black?style=flat-square&logo=Dev&logoColor=white&link=https://dev.to/anurag2907" />
  </a>
   
  <a href="https://www.instagram.com/anurag2907">
-   <img alt="Anurag" src="https://img.shields.io/badge/-Shyam-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anurag2907" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-Anurag-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anurag2907" />
  </a>
 
  </a>
  <a href="mailto:anurag2907@gmail.com">
-   <img alt="Anurag" src="https://img.shields.io/badge/-shyam-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag2907@gmail.com" />
+   <img alt="Anurag" src="https://img.shields.io/badge/-Anurag-pink?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anurag2907@gmail.com" />
  </a>
  
 
