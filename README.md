@@ -82,8 +82,9 @@
 
 
 ### :fire: My Stats :
+  
  <h2 align="center">Stats</h2>
-  <p aligh="center">
+  <p align="center">
    <img align="center" src="https://streak-stats.demolab.com/?user=anurag2907&theme=highcontrast" alt="Shyams github stats" /></a>
 </p>
 
