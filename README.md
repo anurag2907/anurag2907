@@ -75,7 +75,7 @@
 
 <h2 align="center">Projects</h2>
 
-| ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=java%practice&cache_seconds=86400&theme=vision-friendly-dark) | ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=anurag2907&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=anurag2907&cache_seconds=86400&theme=vision-friendly-dark) | 
+| ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=java%practice&cache_seconds=86400&theme=vision-friendly-dark) | ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=anurag2907&cache_seconds=86400&theme=vision-friendly-dark) | 
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -83,9 +83,11 @@
 
 ### :fire: My Stats :
  <h2 align="center">Stats</h2>
-  <a href="https://streak-stats.demolab.com/?user=anurag2907"><img align="center" src="https://streak-stats.demolab.com/?user=anurag2907&theme=highcontrast" alt="Shyam's github stats" /></a>
+  <p aligh="center>
+  <a href="https://streak-stats.demolab.com/?user=anurag2907"><img align="center" src="https://streak-stats.demolab.com/?user=anurag2907&theme=highcontrast" alt="Shyams github stats" /></a>
+</p>
 
-| <a href="https://github.com/anurag2907/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag2907&count_private=true&theme=react&show_icons=true" alt="Shyam's github stats" /></a> | <a href="https://github.com/anurag2907/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2907&layout=compact&theme=react" /></a> |
+| <a href="https://github.com/anurag2907/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag2907&count_private=true&theme=react&show_icons=true" alt="Anurag github stats" /></a> | <a href="https://github.com/anurag2907/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2907&layout=compact&theme=react" /></a> |
 | ------------- | ------------- |
 
 
