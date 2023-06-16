@@ -9,7 +9,7 @@
   </h1>
 
 
-<h2 align="center">A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Jharkhand, India</h2>
+<h2 align="center">A passionate Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> from Jharkhand, India!</h2>
 
 
 ### :technologist: About Me :
