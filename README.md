@@ -75,7 +75,7 @@
 
 <h2 align="center">Projects</h2>
 
-| ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=java%practice&cache_seconds=86400&theme=vision-friendly-dark) | ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=java%practice&cache_seconds=86400&theme=vision-friendly-dark) | 
+| ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=java%practice&cache_seconds=86400&theme=vision-friendly-dark) | ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) ![anurag's github stats](https://github-readme-stats.vercel.app/api/pin/?username=anurag2907&repo=WebDev.github.io.in&cache_seconds=86400&theme=vision-friendly-dark) | 
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
